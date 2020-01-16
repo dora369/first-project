@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "gian tutorial",
+"dataUrl": "Gian Miguel.data.unityweb",
+"wasmCodeUrl": "Gian Miguel.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gian Miguel.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
